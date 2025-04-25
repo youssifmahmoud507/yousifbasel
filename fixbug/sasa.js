@@ -5,4 +5,5 @@ array.forEach(element => {
 
 let mostafa = " sasa"
 
-let c = " sasa"
+let c = " sasنؤبكنمؤةبكمببكمرةa"
+
